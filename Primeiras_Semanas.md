@@ -23,4 +23,4 @@ Instruções:
 
 1 - Remova o tubo do corpo do dispositivo.
 2 - Insira o fio de limpeza no tubo.
-3 - Empurre o fio através de todo o tubo para remover o cerume.
+3 - Empurre o fio através de todo o tubo para remover A cera.
