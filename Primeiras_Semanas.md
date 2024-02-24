@@ -20,7 +20,7 @@ Em situações auditivas barulhentas, até mesmo pessoas sem perda auditiva freq
 ## Cuidado e Limpeza
 95% dos problemas são causados pelo excesso de cerume bloqueando o tubo do ouvido. Limpe os tubos a cada 2 dias!
 Instruções:
-
+![image](https://github.com/EAbeier/repo_ear_centric_maul_pt-br/blob/main/imagens/limpando_aparelho.jpeg)
 1 - Remova o tubo do corpo do dispositivo.
 2 - Insira o fio de limpeza no tubo.
 3 - Empurre o fio através de todo o tubo para remover A cera.
